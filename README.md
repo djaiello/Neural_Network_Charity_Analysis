@@ -1,9 +1,9 @@
-# Module 20 Challenge: Neural Network Charity Analysis
+p# Module 20 Challenge: Neural Network Charity Analysis
 
 ## Overview of the analysis: 
+   The purpose of this analysis is With your knowledge of machine learning and neural networks, you’ll use the features in the provided dataset to help Beks create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.
 
-   Explain the purpose of this analysis.
-   The purpose of this analysis is well defined (4 pt)
+   From Alphabet Soup’s business team, Beks received a CSV containing more than 34,000 organizations that have received funding from Alphabet Soup over the years. Within this dataset are a number of columns that capture metadata about each organization
 
 ## Results: 
    Using bulleted lists and images to support your answers, address the following questions.
