@@ -1,2 +1,1 @@
-# Neural_Network_Charity_Analysis
-Module 20
+# Module 20 Challenge: Neural_Network_Charity_Analysis
