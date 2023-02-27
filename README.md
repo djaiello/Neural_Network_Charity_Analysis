@@ -4,9 +4,7 @@
    The purpose of this analysis is to use the features in the provided dataset, a CSV containing more than 34,000 organizations that have received funding from the client over the years, to create an optimized binary classifier using a neural network model that is capable of predicting whether future applicants will be successful if funded by our client, Alphabet Soup.
    
 
-## Results: 
-   Using bulleted lists and images to support your answers, address the following questions.
-
+## Results:
 - Data Preprocessing
     - What variable(s) are considered the target(s) for your model?
 The target for the model is the "IS_SUCCESSFUL" column variable.  It specifies the overall outcome of the funded organization as either successful or not.
@@ -20,15 +18,18 @@ The 'EIN' and 'NAME' column variables are neither targets nor features, and shou
     
 - Compiling, Training, and Evaluating the Model
     - How many neurons, layers, and activation functions did you select for your neural network model, and why?
-
+I selected to use a basic neural network to start(as seen below), with one hidden layer containing 80 neurons and using the RELU activation function.  I chose to begin with a basic model to limit processing power and get a benchmark for how well a simple netwrok would perform on a fairly straightforward tabular dataset.  I chose the RELU activation function because it is considered the standard default for nonlinear data and I chose 80 neurons following the general rule of using ~2-3 times the number of input features columns, which was 44 in this case. 
         - Original Neural Network Model:
 ![image](https://user-images.githubusercontent.com/114360511/221687753-511ca52c-23e4-4bcb-924c-1a12747a98a4.png)
 
     - Were you able to achieve the target model performance?
+A shown in the following image, the basic model only achieved an accuracy of ~73%.  The target model performance for this project is 75%, therefore it came up just short.
 ![image](https://user-images.githubusercontent.com/114360511/221687803-0df0ba04-00c4-4c18-ae16-0669b6e9d0a9.png)
  
-    - What steps did you take to try and increase model performance?
  
+    - What steps did you take to try and increase model performance?
+Trying to increase the model performance to reach the established goal of 75%, three attempts were made to optimize the model and achieve the goal:
+
         - 1st Model Optimization Attempt:   
 ![image](https://user-images.githubusercontent.com/114360511/221686891-269b2a34-f9c4-4084-a781-f49d2fe8a540.png)
 ![image](https://user-images.githubusercontent.com/114360511/221687653-489e4541-1a2b-4987-9209-14edbd876612.png)
