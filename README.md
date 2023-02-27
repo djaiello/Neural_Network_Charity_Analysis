@@ -23,9 +23,13 @@ The 'EIN' and 'NAME' column variables are neither targets nor features, and shou
 
        - Original Neural Network Model:
 ![image](https://user-images.githubusercontent.com/114360511/221687753-511ca52c-23e4-4bcb-924c-1a12747a98a4.png)
-![image](https://user-images.githubusercontent.com/114360511/221687803-0df0ba04-00c4-4c18-ae16-0669b6e9d0a9.png)
 
     - Were you able to achieve the target model performance?
+    
+ ![image](https://user-images.githubusercontent.com/114360511/221687803-0df0ba04-00c4-4c18-ae16-0669b6e9d0a9.png)
+ 
+ 
+    - What steps did you take to try and increase model performance?
  
        - 1st Model Optimization Attempt:   
 ![image](https://user-images.githubusercontent.com/114360511/221686891-269b2a34-f9c4-4084-a781-f49d2fe8a540.png)
@@ -39,9 +43,8 @@ The 'EIN' and 'NAME' column variables are neither targets nor features, and shou
 ![image](https://user-images.githubusercontent.com/114360511/221687406-88c29375-7f37-4c3e-98fc-cbf6ccdd3b49.png)
 ![image](https://user-images.githubusercontent.com/114360511/221687434-b17bf00d-a53e-427d-8365-9c59350e693a.png)
 
-    - What steps did you take to try and increase model performance?
+
     
-![image](https://user-images.githubusercontent.com/114360511/221687083-ca7ffe07-5f9d-4e06-99a0-70c665492874.png)
 
  
  
