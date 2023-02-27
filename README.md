@@ -26,9 +26,9 @@ The 'EIN' and 'NAME' column variables are neither targets nor features, and shou
 
     - Were you able to achieve the target model performance?
     
- ![image](https://user-images.githubusercontent.com/114360511/221687803-0df0ba04-00c4-4c18-ae16-0669b6e9d0a9.png)
+![image](https://user-images.githubusercontent.com/114360511/221687803-0df0ba04-00c4-4c18-ae16-0669b6e9d0a9.png)
  
-    - What steps did you take to try and increase model performance?
+     - What steps did you take to try and increase model performance?
  
         - 1st Model Optimization Attempt:   
 ![image](https://user-images.githubusercontent.com/114360511/221686891-269b2a34-f9c4-4084-a781-f49d2fe8a540.png)
