@@ -24,8 +24,9 @@ I selected to use a basic neural network to start(as seen below), with one hidde
 
     - Were you able to achieve the target model performance?
 A shown in the following image, the basic model only achieved an accuracy of ~73%.  The target model performance for this project is 75%, therefore it came up just short.
+
 ![image](https://user-images.githubusercontent.com/114360511/221687803-0df0ba04-00c4-4c18-ae16-0669b6e9d0a9.png)
- 
+-
     - What steps did you take to try and increase model performance?
     
 Trying to increase the model performance to reach the established goal of 75%, three attempts were made to optimize the model and achieve the goal:
