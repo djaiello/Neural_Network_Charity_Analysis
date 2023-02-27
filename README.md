@@ -66,9 +66,3 @@ Trying to increase the model performance to reach the established goal of 75%, t
 Overall, the model was never able to be optimaized to meet the target accuracy of greater than 75%.  The original basic model benchmarked the accuracy at ~73% and all attempts to optimize either failed to improve the accuracy or in the last attempt where the output layer activation function was switched to "softmax", the accuracy plummeted to ~53%.  Both expanding the model and simplifiying the model showed no improvement.  Removal of several different input features showed no improvement.  Finally switching between activiation functions showed either no improvement or a drop.
 
 This dataset showed no ability to be successfully classified to an accuracy of greater than 75% with a neural network, basic or deep.  My recommendation for gaining better success would be to go back to trying a few supervised machine learning models.  The first attempt to classify heterogeneous tabular data without being computationally expensive for processing would be to use a more basic, straight-forward supervised model first.  Classification of this type of data is the strength of these models.  I would start with a Linear Regression model and proceed up to one of the ensemble models before returning to a neural network for this project.
-
-
-Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
-    
-    There is a summary of the results (2 pt)
-    There is a recommendation on using a different model to solve the classification problem, and justification (3 pt)
