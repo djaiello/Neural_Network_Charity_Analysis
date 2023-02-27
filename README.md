@@ -27,8 +27,7 @@ A shown in the following image, the basic model only achieved an accuracy of ~73
 
 ![image](https://user-images.githubusercontent.com/114360511/221687803-0df0ba04-00c4-4c18-ae16-0669b6e9d0a9.png)
  
- 
-    - What steps did you take to try and increase model performance?
+ - What steps did you take to try and increase model performance?
     
 Trying to increase the model performance to reach the established goal of 75%, three attempts were made to optimize the model and achieve the goal:
 
@@ -62,7 +61,7 @@ Trying to increase the model performance to reach the established goal of 75%, t
 
 
 ## Summary: 
-    Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
     
     There is a summary of the results (2 pt)
     There is a recommendation on using a different model to solve the classification problem, and justification (3 pt)
