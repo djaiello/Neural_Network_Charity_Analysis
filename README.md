@@ -34,7 +34,7 @@ The 'EIN' and 'NAME' column variables are neither targets nor features, and shou
 ![image](https://user-images.githubusercontent.com/114360511/221687653-489e4541-1a2b-4987-9209-14edbd876612.png)
 
         - 2nd Model Optimization Attempt:   
-![image](https://user-images.githubusercontent.com/114360511/221686977-7ee3a847-ad62-42c5-84ea-20eea4f11ab4.png)
+![image](https://user-images.githubusercontent.com/114360511/221697763-824829c3-14b6-46e1-b2b3-cfb197fcc85f.png)
 ![image](https://user-images.githubusercontent.com/114360511/221687120-1f84eaea-10f7-4d39-9ec7-b7ddd50b0e6c.png)
 
         - 3rd Model Optimization Attempt:   
