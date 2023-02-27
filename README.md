@@ -34,6 +34,7 @@ Trying to increase the model performance to reach the established goal of 75%, t
             - Noisy variable, 'SPECIAL_CONSIDERATIONS' was removed from features.
             - Additional 2nd hidden layer was added
             - Additional 40 neurons are added to hidden layers
+            RESULTS: ~73% Accuracy
             
 ![image](https://user-images.githubusercontent.com/114360511/221686891-269b2a34-f9c4-4084-a781-f49d2fe8a540.png)
 ![image](https://user-images.githubusercontent.com/114360511/221687653-489e4541-1a2b-4987-9209-14edbd876612.png)
@@ -43,6 +44,7 @@ Trying to increase the model performance to reach the established goal of 75%, t
             - Additional 2nd hidden layer was added
             - Additional 40 neurons are added to hidden layers
             - The activation function of the 2nd hidden layer was changed, to "tanh" for optimization
+            RESULTS: ~73% Accuracy
             
 ![image](https://user-images.githubusercontent.com/114360511/221697763-824829c3-14b6-46e1-b2b3-cfb197fcc85f.png)
 ![image](https://user-images.githubusercontent.com/114360511/221687120-1f84eaea-10f7-4d39-9ec7-b7ddd50b0e6c.png)
@@ -54,6 +56,7 @@ Trying to increase the model performance to reach the established goal of 75%, t
             - Added 8 nodes to the 2nd hidden layer
             - The activation function of the Output layer was changed, to "softmax" for optimization
             - Increase the epochs to 150
+            RESULTS: ~53% Accuracy
             
 ![image](https://user-images.githubusercontent.com/114360511/221687406-88c29375-7f37-4c3e-98fc-cbf6ccdd3b49.png)
 ![image](https://user-images.githubusercontent.com/114360511/221687434-b17bf00d-a53e-427d-8365-9c59350e693a.png)
